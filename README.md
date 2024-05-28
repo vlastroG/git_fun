@@ -1,3 +1,3 @@
 # git_fun
 
-first commit
+second commit
